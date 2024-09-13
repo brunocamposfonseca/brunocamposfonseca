@@ -7,6 +7,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  
 </div>
 
 ##
@@ -19,8 +21,9 @@
 </div>
 
 ##
+<div style="display: flex">
+  ![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=dark&show_icons=true)
 
-![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=midnight-purple&show_icons=true)
-
-[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&theme=midnight-purple&langs_count=8)](https://github.com/brunocamposfonseca/github-readme-stats)
+  [![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&theme=dark&langs_count=8)](https://github.com/brunocamposfonseca/github-readme-stats)
+</div>
 
