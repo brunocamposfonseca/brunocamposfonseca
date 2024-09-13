@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/bruno-campos-fonseca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+## INFOS
 
  ![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=vision-friendly-dark&show_icons=true)
 
