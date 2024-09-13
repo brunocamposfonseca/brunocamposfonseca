@@ -18,11 +18,11 @@
   
 </div>
 
-### Tecnologias que uso:
+##
 
 ![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=algolia&show_icons=true)
 
-<hr/>
+##
 
 [![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&langs_count=8)](https://github.com/brunocamposfonseca/github-readme-stats)
 
