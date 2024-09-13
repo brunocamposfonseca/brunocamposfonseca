@@ -20,9 +20,7 @@
   
 </div>
 
-<div style="display: flex; justify-content: space-between;">
  ![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=dark&show_icons=true)
- 
+ ##
   [![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&theme=dark&langs_count=8)](https://github.com/brunocamposfonseca/github-readme-stats)
 
-</div>
