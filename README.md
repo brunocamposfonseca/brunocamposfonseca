@@ -17,6 +17,8 @@
   
 </div>
 
+<br/>
+
 ## Linguagens
  
 <div> 
