@@ -22,7 +22,5 @@
 
 ![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=midnight-purple&show_icons=true)
 
-##
-
-[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&langs_count=8)](https://github.com/brunocamposfonseca/github-readme-stats)
+[![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&theme=midnight-purple&langs_count=8)](https://github.com/brunocamposfonseca/github-readme-stats)
 
