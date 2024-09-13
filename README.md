@@ -20,7 +20,7 @@
 
 ##
 
-![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=algolia&show_icons=true)
+![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=midnight-purple&show_icons=true)
 
 ##
 
