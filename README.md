@@ -23,9 +23,9 @@
 
 ## Status
 
- ![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=dark&show_icons=true)
+ ![brunocamposfonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocamposfonseca&theme=vision-friendly-dark&show_icons=true)
 
 ## Linguagens
- 
-  [![Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&theme=dark&langs_count=8)](https://github.com/brunocamposfonseca/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocamposfonseca&theme=vision-friendly-dark&layout=compact)
 
