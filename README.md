@@ -1,7 +1,5 @@
 ### Olá! Meu nome é Bruno Campos Fonseca 👋
 
-<br/>
-
 ## Linguagens
 
 <div style="display: inline_block"><br>
