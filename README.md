@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="30" alt="ubuntu logo"  />
+  <img src="https://img.icons8.com/?size=512&id=FnnFuAIw4e8j&format=png" height="30" alt="ubuntu logo"  />
 </div>
 
 ###
