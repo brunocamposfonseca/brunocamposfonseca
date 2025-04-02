@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=512&id=x7XMNGh2vdqA&format=png" height="30" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql" height="30" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
